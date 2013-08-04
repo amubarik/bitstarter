@@ -203,12 +203,9 @@
 	      </div>
 	      <div class="row-fluid">
 	      <div class="span6 offset3 order">
-		<!-- Bit Coin button -->
-		<a class="coinbase-button" 
-		   data-code="994012730c99ec2cfb073fb07790e4f3" 
-		   href="https://coinbase.com/checkouts/994012730c99ec2cfb073fb07790e4f3">You can also pay with Bitcoin</a>
-		<script src="https://coinbase.com/assets/button.js" type="text/javascript"></script>
-				
+		<!-- Standard Bootsrap button. -->
+		<!-- http://twitter.github.io/bootstrap/base-css.html#buttons -->
+		<button class="btn btn-success btn-large">Preorder</button>
 	      </div>
 	      </div>
 	      <div class="row-fluid">
